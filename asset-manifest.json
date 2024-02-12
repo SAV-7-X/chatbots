@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SAV-7-X/chatbots/static/css/main.ab6933d3.css",
-    "main.js": "/SAV-7-X/chatbots/static/js/main.d14c8fcb.js",
-    "static/js/592.e3d8bead.chunk.js": "/SAV-7-X/chatbots/static/js/592.e3d8bead.chunk.js",
-    "index.html": "/SAV-7-X/chatbots/index.html",
-    "main.ab6933d3.css.map": "/SAV-7-X/chatbots/static/css/main.ab6933d3.css.map",
-    "main.d14c8fcb.js.map": "/SAV-7-X/chatbots/static/js/main.d14c8fcb.js.map",
-    "592.e3d8bead.chunk.js.map": "/SAV-7-X/chatbots/static/js/592.e3d8bead.chunk.js.map"
+    "main.css": "/SAV-7-X/react/static/css/main.ab6933d3.css",
+    "main.js": "/SAV-7-X/react/static/js/main.235cf351.js",
+    "static/js/592.e3d8bead.chunk.js": "/SAV-7-X/react/static/js/592.e3d8bead.chunk.js",
+    "index.html": "/SAV-7-X/react/index.html",
+    "main.ab6933d3.css.map": "/SAV-7-X/react/static/css/main.ab6933d3.css.map",
+    "main.235cf351.js.map": "/SAV-7-X/react/static/js/main.235cf351.js.map",
+    "592.e3d8bead.chunk.js.map": "/SAV-7-X/react/static/js/592.e3d8bead.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab6933d3.css",
-    "static/js/main.d14c8fcb.js"
+    "static/js/main.235cf351.js"
   ]
 }
